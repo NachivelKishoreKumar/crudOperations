@@ -1,0 +1,70 @@
+.popupContainer {
+  margin-top: -60px;
+  margin-left: 350px;
+  width: 40%;
+  height: 15%;
+  position: fixed;
+  background-color: lightblue;
+  border-radius: 8px;
+  color: black;
+}
+
+.Body{
+  padding : 75px;
+  background-color: rgb(37, 44, 79);
+  height: 2000px;
+  color: white;
+}
+
+.Signup-Form{ 
+  margin-left: auto;
+  margin-right: auto;
+  height: 2000px;
+  background-color: rgb(37, 44, 79);
+  width: auto;
+  padding: 45px;
+  text-align: center;
+  color: white;
+}
+
+table,th,td,tr,thead,tbody{
+
+  border:1px solid white;
+  margin : auto;
+  width : 75%;
+  padding:7px;
+}
+
+.Insert-Button{
+  margin-top: 25px;
+  margin-right: 25px;
+  font-family: sans-serif;
+  float : right;
+  background-color: lightblue;
+  border: 2px solid black;
+  padding: 15px;
+  color: black;
+  font-size: 14px;
+  cursor: pointer;
+  border-radius: 20px;
+}
+
+.Button{
+  font-family: sans-serif;
+  background-color: lightblue;
+  border: 2px solid black;
+  padding: 15px;
+  color: black;
+  font-size: 14px;
+  cursor: pointer;
+  border-radius: 20px;
+}
+
+.App {
+  text-align: center;
+}
+
+
+
+
+
